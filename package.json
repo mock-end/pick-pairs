@@ -1,6 +1,6 @@
 {
   "name": "pick-pairs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Given an object, pick some random key-values and return it in a new object.",
   "main": "index.js",
   "scripts": {
@@ -50,6 +50,6 @@
   },
   "dependencies": {
     "is-object": "^1.0.1",
-    "pick-keys": "^1.0.2"
+    "pick-keys": "^1.0.3"
   }
 }
